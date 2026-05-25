@@ -21,8 +21,8 @@ jobs:
 
       - name: Compile and run
         run: |
-          javac TV-merge.java -d .
-          java Crawler
+          javac TVMerge.java -d .
+          java TVMerge
 
       - name: Commit results
         run: |
