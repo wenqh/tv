@@ -1,0 +1,33 @@
+name: TV merge
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-crawler:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Compile and run crawler
+        run: |
+          javac src/main/java/Crawler.java -d .
+          java Crawler
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add tv-merge.m3u
+          git commit -m "Update tv results" || echo "No changes to commit"
+          git push
