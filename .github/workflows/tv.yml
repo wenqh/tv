@@ -19,9 +19,9 @@ jobs:
           distribution: temurin
           java-version: 21
 
-      - name: Compile and run crawler
+      - name: Compile and run
         run: |
-          javac src/main/java/Crawler.java -d .
+          javac TV-merge.java -d .
           java Crawler
 
       - name: Commit results
