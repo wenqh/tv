@@ -36,7 +36,7 @@ public class TVMerge {
             return resp;
         }).collect(Collectors.joining("\n"));
 
-        Files.writeString(Path.of("tv-merge.m3u"), all, StandardCharsets.UTF_8);
+        Files.writeString(Path.of("tv-all.m3u"), all, StandardCharsets.UTF_8);
     }
 
 

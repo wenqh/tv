@@ -1,4 +1,4 @@
-name: Compile and Run Java TVMerge
+name: Run Java TVMerge
 
 on:
   schedule:
@@ -36,7 +36,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git checkout -B tmp
-        git add tv_auto.txt
+        git add tv-all.m3u
         git commit -m "Update TV crawler results [skip ci]" || echo "No changes to commit"
         git push --set-upstream origin tmp -f
       env:
