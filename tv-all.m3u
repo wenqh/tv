@@ -89,6 +89,10 @@ https://test.19891230.eu.org/hk/TVB-Plus/index.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="•港澳「限制」",無綫新聞台
 https://test.19891230.eu.org/hk/C/index.m3u8
 
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="•港澳「限制」",ViuTV「12H」
+https://test.19891230.eu.org/hkg/ViuTV/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="•港澳「限制」",ViuTVsix
+https://test.19891230.eu.org/hkg/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="•港澳「限制」",Now直播台
 https://cdn.19891230.eu.org/hk/now-331/index.m3u8
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="•港澳「限制」",Now新聞台
@@ -97,10 +101,6 @@ https://cdn.19891230.eu.org/hk/now-332/index.m3u8
 https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://epg.yang-1989.eu.org/logo/Now Sports 精選.png" group-title="•港澳「限制」",Now Sports 精選
 https://cdn.19891230.eu.org/hk/now-630/index.m3u8
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="•港澳「限制」",ViuTV
-https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="•港澳「限制」",ViuTVsix
-https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
 
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY76.png" group-title="•港澳「限制」",HOY 國際財經台
 https://cdn.19891230.eu.org/hkg/hoy76/index.m3u8
@@ -2758,6 +2758,10 @@ https://cdn8.163189.xyz/163189/lhox
 https://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-name="龍華戲劇" group-title="mytv",龙华戏剧
 https://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-name="龍華洋片" group-title="mytv",龙华洋片
+https://cdn8.163189.xyz/163189/lhyp
+#EXTINF:-1 tvg-name="龍華卡通" group-title="mytv",龙华卡通
+https://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
 https://o11.163189.xyz/stream/live/jgbdx/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
@@ -2820,8 +2824,12 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
+https://cdn16.163189.xyz/163189/cctv5-2
 #EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
+https://cdn16.163189.xyz/163189/cctv5p-2
 #EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7
@@ -2844,6 +2852,8 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16
+https://cdn16.163189.xyz/163189/cctv16-2
 #EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
@@ -2904,3 +2914,8 @@ https://smt.1678520.xyz/163189/dsdy
 https://smt.1678520.xyz/163189/dsxj
 #EXTINF:-1 tvg-name="东森洋片" group-title="mytv",东森洋片
 https://smt.1678520.xyz/163189/dsyp
+
+#EXTINF:-1 tvg-name="咪咕4K" group-title="mytv",咪咕4K(限移动网络)
+http://r.jdshipin.com/ln4xk
+#EXTINF:-1 tvg-name="咪咕4K-2" group-title="mytv",咪咕4K-2(限移动网络)
+http://r.jdshipin.com/Lqdwf
