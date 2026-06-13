@@ -89,7 +89,7 @@ https://test.19891230.eu.org/hk/TVB-Plus/index.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="•港澳「限制」",無綫新聞台
 https://test.19891230.eu.org/hk/C/index.m3u8
 
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="•港澳「限制」",ViuTV「12H」
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="•港澳「限制」",ViuTV
 https://test.19891230.eu.org/hkg/ViuTV/index.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="•港澳「限制」",ViuTVsix
 https://test.19891230.eu.org/hkg/ViuTVsix/index.m3u8
@@ -2776,6 +2776,8 @@ https://cdn6.163189.xyz/163189/wxxwt
 https://cdn6.163189.xyz/163189/tvbxh
 #EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
 https://cdn10.163189.xyz/163189/hxws/
+#EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
+https://cdn16.163189.xyz/163189/hxws
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 https://cdn10.163189.xyz/163189/xinghe/
 #EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映新加坡
