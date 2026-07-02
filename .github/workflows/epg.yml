@@ -1,88 +1,49 @@
-name: Sync EPG
+name: EPG Mirror
 
 on:
   schedule:
     - cron: '40 */2 * * *'
   workflow_dispatch:
 
-jobs:
-  sync:
-    runs-on: ubuntu-latest
+permissions:
+  contents: write
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y file
+      - name: Install file
+        run: sudo apt-get update && sudo apt-get install -y file
 
       - name: Download EPG
         run: |
-          mkdir -p epg
+          # 在这里加源：文件名 和 URL 一一对应
+          declare -A SOURCES=(
+            ["epg.xml"]="https://你要镜像的源地址/epg.xml"
+            # ["hk.xml"]="https://另一个源/hk.xml.gz"
+          )
 
-          download() {
-            filename="$1"
-            url="$2"
+          for filename in "${!SOURCES[@]}"; do
+            url="${SOURCES[$filename]}"
+            echo "Downloading $filename from $url"
+            raw="$filename.raw"
+            curl -kL --retry 5 -o "$raw" "$url" || { echo "下载失败 $filename"; rm -f "$raw"; continue; }
 
-            echo "==== $filename ===="
-
-            raw="epg/${filename}.raw"
-            tmp="epg/${filename}.tmp"
-            out="epg/${filename}"
-
-            http=$(curl -L \
-              --retry 5 \
-              --connect-timeout 15 \
-              --max-time 300 \
-              -A "Mozilla/5.0" \
-              -sS \
-              -w "%{http_code}" \
-              -o "$raw" \
-              "$url")
-
-            if [ "$http" != "200" ]; then
-              echo "Download failed: HTTP $http"
-              rm -f "$raw"
-              return
-            fi
-
-            mime=$(file -b --mime-type "$raw")
-
-            if [[ "$mime" == application/gzip* ]]; then
-              gunzip -c "$raw" > "$tmp"
+            # gzip 自动解压
+            if [[ "$(file -b --mime-type "$raw")" == application/*gzip ]]; then
+              gunzip -c "$raw" > "$filename"
             else
-              mv "$raw" "$tmp"
+              mv "$raw" "$filename"
             fi
-
             rm -f "$raw"
-
-            if [ ! -f "$out" ] || ! cmp -s "$tmp" "$out"; then
-              mv "$tmp" "$out"
-              gzip -kf "$out"
-              echo "Updated"
-            else
-              rm -f "$tmp"
-              echo "No change"
-            fi
-          }
-
-          # ===== 在这里添加源 =====
-          download "e2.xml" "http://epg.51zmt.top:8000/e2.xml.gz"
-          # download "tv.xml" "https://example.com/tv.xml"
-          # download "hk.xml" "https://example.com/hk.xml.gz"
+          done
 
       - name: Commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add epg
-
-          if git diff --cached --quiet; then
-            echo "Nothing changed"
-            exit 0
-          fi
-
-          git commit -m "Update EPG $(date '+%F %T')"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "update $(date '+%Y-%m-%d %H:%M')"
           git push

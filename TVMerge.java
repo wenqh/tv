@@ -50,7 +50,7 @@ public class TVMerge {
         try {
             response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
         } catch (IOException | InterruptedException e) {
-            throw new RuntimeException(e);
+            throw new RuntimeException(url, e);
         }
 
         return response.body();

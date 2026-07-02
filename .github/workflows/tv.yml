@@ -1,4 +1,4 @@
-name: Daily TV Merge
+name: TV Merge
 
 on:
   schedule:
