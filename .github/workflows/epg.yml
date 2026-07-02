@@ -21,8 +21,8 @@ jobs:
         run: |
           # 在这里加源：文件名 和 URL 一一对应
           declare -A SOURCES=(
-            ["epg.xml"]="https://你要镜像的源地址/epg.xml"
-            # ["hk.xml"]="https://另一个源/hk.xml.gz"
+            ["51zmt-e.xml"]="http://epg.51zmt.top:8000/e.xml.gz"
+            ["51zmt-e2.xml"]="http://epg.51zmt.top:8000/e2.xml.gz"
           )
 
           for filename in "${!SOURCES[@]}"; do
