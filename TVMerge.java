@@ -26,8 +26,9 @@ public class TVMerge {
 //            "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1.m3u",
 
            "https://iptv.yang-1989.eu.org/m3u/Gather.m3u", //https://github.com/YanG-1989/m3u/
-           "http://iptv.4666888.xyz/FYTV.m3u", //风云
-           "https://cdn.qd.je/live.m3u" //juli
+           "https://cdn.qd.je/live.m3u", //juli
+           //"http://iptv.4666888.xyz/FYTV.m3u", //风云
+           "https://raw.githubusercontent.com/wenqh/tv/refs/heads/main/tv-my.m3u" //my
     );
 
     public static void main(String[] args) throws IOException {
