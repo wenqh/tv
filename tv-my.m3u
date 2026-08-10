@@ -1,123 +1,407 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1綜合" tvg-name="CCTV1綜合" tvg-logo="" group-title="風雲試看央衛頻道",CCTV1綜合
-http://iptv.4666888.xyz/iptv2A.php?id=7
-#EXTINF:-1 tvg-id="CCTV2財經" tvg-name="CCTV2財經" tvg-logo="" group-title="風雲試看央衛頻道",CCTV2財經
-http://iptv.4666888.xyz/iptv2A.php?id=8
-#EXTINF:-1 tvg-id="CCTV3綜藝" tvg-name="CCTV3綜藝" tvg-logo="" group-title="風雲試看央衛頻道",CCTV3綜藝
-http://iptv.4666888.xyz/iptv2A.php?id=9
-#EXTINF:-1 tvg-id="CCTV14少兒" tvg-name="CCTV14少兒" tvg-logo="" group-title="風雲試看央衛頻道",CCTV14少兒
-http://iptv.4666888.xyz/iptv2A.php?id=12
-#EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="風雲試看央衛頻道",廣東衛視
-http://iptv.4666888.xyz/iptv2A.php?id=18
-#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="風雲試看央衛頻道",湖南衛視
-http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="風雲試看央衛頻道",浙江衛視
-http://iptv.4666888.xyz/iptv2A.php?id=14
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="風雲試看央衛頻道",湖北卫视
-http://iptv.4666888.xyz/iptv2A.php?id=15
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="風雲試看央衛頻道",贵州卫视
-http://iptv.4666888.xyz/iptv2A.php?id=16
-#EXTINF:-1 tvg-id="FightSports" tvg-name="FightSports" tvg-logo="" group-title="風雲試看體育頻道",FightSports
-http://iptv.4666888.xyz/iptv2A.php?id=1
-#EXTINF:-1 tvg-id="TntSports1" tvg-name="TntSports1" tvg-logo="" group-title="風雲試看體育頻道",TntSports1
-http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-id="beINSports1" tvg-name="beINSports1" tvg-logo="" group-title="風雲試看體育頻道",beINSports1
-http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 tvg-id="NowSports1" tvg-name="NowSports1" tvg-logo="" group-title="風雲試看體育頻道",NowSports1
-http://iptv.4666888.xyz/iptv2A.php?id=11
-#EXTINF:-1 tvg-id="SkysportsF1" tvg-name="SkysportsF1" tvg-logo="" group-title="風雲試看體育頻道",SkysportsF1
-http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-id="SkySportsFootball" tvg-name="SkySportsFootball" tvg-logo="" group-title="風雲試看體育頻道",SkySportsFootball
-http://iptv.4666888.xyz/iptv2A.php?id=5
-#EXTINF:-1 tvg-id="SkyTennis+" tvg-name="SkyTennis+" tvg-logo="" group-title="風雲試看體育頻道",SkyTennis+
-http://iptv.4666888.xyz/iptv2A.php?id=6
-#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="" group-title="風雲試看體育頻道",博斯高球1
-http://iptv.4666888.xyz/iptv2A.php?id=10
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="風雲試看港澳頻道",凤凰中文
-http://iptv.4666888.xyz/iptv2A.php?id=19
-#EXTINF:-1 tvg-id="TVB黃金華劇" tvg-name="TVB黃金華劇" tvg-logo="" group-title="風雲試看港澳頻道",TVB黃金華劇
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="TVB翡翠(馬來)" tvg-name="TVB翡翠(馬來)" tvg-logo="" group-title="風雲試看港澳頻道",TVB翡翠(馬來)
-http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="" group-title="風雲試看港澳頻道",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="風雲試看港澳頻道",TVBJ1
-http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="風雲試看港澳頻道",TVB1
-http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-id="千禧經典" tvg-name="千禧經典" tvg-logo="" group-title="風雲試看港澳頻道",千禧經典
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="" group-title="風雲試看港澳頻道",HOY77
-http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 tvg-id="TVB-獎門人" tvg-name="TVB-獎門人" tvg-logo="" group-title="風雲試看港澳頻道",TVB-獎門人
-http://iptv.4666888.xyz/iptv2A.php?id=31
-#EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" tvg-logo="" group-title="風雲試看港澳頻道",TVB-金曲
-http://iptv.4666888.xyz/iptv2A.php?id=17
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="" group-title="風雲試看港澳頻道",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-id="TVB娛樂新聞" tvg-name="TVB娛樂新聞" tvg-logo="" group-title="風雲試看港澳頻道",TVB娛樂新聞
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-id="MYTV黃金翡翠" tvg-name="MYTV黃金翡翠" tvg-logo="" group-title="風雲試看港澳頻道",MYTV黃金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=32
-#EXTINF:-1 tvg-id="TVB翡翠劇集" tvg-name="TVB翡翠劇集" tvg-logo="" group-title="風雲試看港澳頻道",TVB翡翠劇集
-http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" tvg-logo="" group-title="風雲試看港澳頻道",TVB-金曲
-http://iptv.4666888.xyz/iptv2A.php?id=17
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="" group-title="風雲試看港澳頻道",澳視澳門
-http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 tvg-id="中國電影" tvg-name="中國電影" tvg-logo="" group-title="風雲試看港澳頻道",中國電影
-http://iptv.4666888.xyz/iptv2A.php?id=61
-#EXTINF:-1 tvg-id="创世电视" tvg-name="创世电视" tvg-logo="" group-title="風雲試看港澳頻道",创世电视
-http://iptv.4666888.xyz/iptv2A.php?id=20
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="" group-title="風雲試看臺灣頻道",TVBS新聞
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="" group-title="風雲試看",TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="" group-title="風雲試看臺灣頻道",鏡新聞
+#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="" group-title="風雲試看",鏡新聞
 http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="" group-title="風雲試看臺灣頻道",民視
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="" group-title="風雲試看",民視
 http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-id="華藝中文" tvg-name="華藝中文" tvg-logo="" group-title="風雲試看臺灣頻道",華藝中文
+#EXTINF:-1 tvg-id="華藝中文" tvg-name="華藝中文" tvg-logo="" group-title="風雲試看",華藝中文
 http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="" group-title="風雲試看臺灣頻道",愛奇藝
+#EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="" group-title="風雲試看",愛奇藝
 http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" tvg-logo="" group-title="風雲試看臺灣頻道",靖洋戲劇
+#EXTINF:-1 tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" tvg-logo="" group-title="風雲試看",靖洋戲劇
 http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-id="靖天電影" tvg-name="靖天電影" tvg-logo="" group-title="風雲試看臺灣頻道",靖天電影
+#EXTINF:-1 tvg-id="靖天電影" tvg-name="靖天電影" tvg-logo="" group-title="風雲試看",靖天電影
 http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="" group-title="風雲試看臺灣頻道",東森電影
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="" group-title="風雲試看",東森電影
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-id="FGM_gold电影" tvg-name="FGM_gold电影" tvg-logo="" group-title="風雲試看臺灣頻道",FGM_gold电影
+#EXTINF:-1 tvg-id="FGM_gold电影" tvg-name="FGM_gold电影" tvg-logo="" group-title="風雲試看",FGM_gold电影
 http://iptv.4666888.xyz/iptv2A.php?id=54
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="風雲試看臺灣頻道",龍華電影
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="風雲試看",龍華電影
 http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="風雲試看臺灣頻道",龍華洋片
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="風雲試看",龍華洋片
 http://iptv.4666888.xyz/iptv2A.php?id=60
-#EXTINF:-1 tvg-id="風雲恐怖電影" tvg-name="風雲恐怖電影" tvg-logo="" group-title="風雲試看臺灣頻道",風雲恐怖電影
+#EXTINF:-1 tvg-id="風雲恐怖電影" tvg-name="風雲恐怖電影" tvg-logo="" group-title="風雲試看",風雲恐怖電影
 http://iptv.4666888.xyz/iptv2A.php?id=59
-#EXTINF:-1 tvg-id="ROCK_Action" tvg-name="ROCK_Action" tvg-logo="" group-title="風雲試看臺灣頻道",ROCK_Action
+#EXTINF:-1 tvg-id="ROCK_Action" tvg-name="ROCK_Action" tvg-logo="" group-title="風雲試看",ROCK_Action
 http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 tvg-id="梦工场动漫" tvg-name="梦工场动漫" tvg-logo="" group-title="風雲試看臺灣頻道",梦工场动漫
+#EXTINF:-1 tvg-id="梦工场动漫" tvg-name="梦工场动漫" tvg-logo="" group-title="風雲試看",梦工场动漫
 http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1 tvg-id="Duck TV兒童卡通" tvg-name="Duck TV兒童卡通" tvg-logo="" group-title="風雲試看臺灣頻道",Duck TV兒童卡通
+#EXTINF:-1 tvg-id="Duck TV兒童卡通" tvg-name="Duck TV兒童卡通" tvg-logo="" group-title="風雲試看",Duck TV兒童卡通
 http://iptv.4666888.xyz/iptv2A.php?id=39
-#EXTINF:-1 tvg-id="MOMO親子" tvg-name="MOMO親子" tvg-logo="" group-title="風雲試看臺灣頻道",MOMO親子
+#EXTINF:-1 tvg-id="MOMO親子" tvg-name="MOMO親子" tvg-logo="" group-title="風雲試看",MOMO親子
 http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="" group-title="風雲試看臺灣頻道",金光布袋戲
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="" group-title="風雲試看",金光布袋戲
 http://iptv.4666888.xyz/iptv2A.php?id=38
-#EXTINF:-1 tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="" group-title="風雲試看臺灣頻道",民視綜藝
+#EXTINF:-1 tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="" group-title="風雲試看",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="民視影劇" tvg-name="民視影劇" tvg-logo="" group-title="風雲試看臺灣頻道",民視影劇
+#EXTINF:-1 tvg-id="民視影劇" tvg-name="民視影劇" tvg-logo="" group-title="風雲試看",民視影劇
 http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="" group-title="風雲試看臺灣頻道",TVBS精采
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="" group-title="風雲試看",TVBS精采
 http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="臺視綜合" tvg-name="臺視綜合" tvg-logo="" group-title="風雲試看臺灣頻道",臺視綜合
+#EXTINF:-1 tvg-id="臺視綜合" tvg-name="臺視綜合" tvg-logo="" group-title="風雲試看",臺視綜合
 http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="" group-title="風雲試看臺灣頻道",TVBS台剧
+#EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="" group-title="風雲試看",TVBS台剧
 http://iptv.4666888.xyz/iptv2A.php?id=58
-#EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="" group-title="風雲試看臺灣頻道",八度空間
+#EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="" group-title="風雲試看",八度空間
 http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-id="韓流美食料理秀" tvg-name="韓流美食料理秀" tvg-logo="" group-title="風雲試看臺灣頻道",韓流美食料理秀
+#EXTINF:-1 tvg-id="韓流美食料理秀" tvg-name="韓流美食料理秀" tvg-logo="" group-title="風雲試看",韓流美食料理秀
 http://iptv.4666888.xyz/iptv2A.php?id=63
-#EXTINF:-1 tvg-id="娛樂百分百" tvg-name="娛樂百分百" tvg-logo="" group-title="風雲試看臺灣頻道",娛樂百分百
+#EXTINF:-1 tvg-id="娛樂百分百" tvg-name="娛樂百分百" tvg-logo="" group-title="風雲試看",娛樂百分百
 http://iptv.4666888.xyz/iptv2A.php?id=64
-#EXTINF:-1 tvg-id="綜藝大贏家" tvg-name="綜藝大贏家" tvg-logo="" group-title="風雲試看臺灣頻道",綜藝大贏家
+#EXTINF:-1 tvg-id="綜藝大贏家" tvg-name="綜藝大贏家" tvg-logo="" group-title="風雲試看",綜藝大贏家
 http://iptv.4666888.xyz/iptv2A.php?id=65
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="風雲試看",凤凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=19
+#EXTINF:-1 tvg-id="TVB黃金華劇" tvg-name="TVB黃金華劇" tvg-logo="" group-title="風雲試看",TVB黃金華劇
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="TVB翡翠(馬來)" tvg-name="TVB翡翠(馬來)" tvg-logo="" group-title="風雲試看",TVB翡翠(馬來)
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="" group-title="風雲試看",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="風雲試看",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="風雲試看",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-id="千禧經典" tvg-name="千禧經典" tvg-logo="" group-title="風雲試看",千禧經典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="" group-title="風雲試看",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1 tvg-id="TVB-獎門人" tvg-name="TVB-獎門人" tvg-logo="" group-title="風雲試看",TVB-獎門人
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" tvg-logo="" group-title="風雲試看",TVB-金曲
+http://iptv.4666888.xyz/iptv2A.php?id=17
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="" group-title="風雲試看",RTHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 tvg-id="TVB娛樂新聞" tvg-name="TVB娛樂新聞" tvg-logo="" group-title="風雲試看",TVB娛樂新聞
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 tvg-id="MYTV黃金翡翠" tvg-name="MYTV黃金翡翠" tvg-logo="" group-title="風雲試看",MYTV黃金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 tvg-id="TVB翡翠劇集" tvg-name="TVB翡翠劇集" tvg-logo="" group-title="風雲試看",TVB翡翠劇集
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" tvg-logo="" group-title="風雲試看",TVB-金曲
+http://iptv.4666888.xyz/iptv2A.php?id=17
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="" group-title="風雲試看",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-id="中國電影" tvg-name="中國電影" tvg-logo="" group-title="風雲試看",中國電影
+http://iptv.4666888.xyz/iptv2A.php?id=61
+#EXTINF:-1 tvg-id="创世电视" tvg-name="创世电视" tvg-logo="" group-title="風雲試看",创世电视
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 tvg-id="FightSports" tvg-name="FightSports" tvg-logo="" group-title="風雲試看",FightSports
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 tvg-id="TntSports1" tvg-name="TntSports1" tvg-logo="" group-title="風雲試看",TntSports1
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-1 tvg-id="beINSports1" tvg-name="beINSports1" tvg-logo="" group-title="風雲試看",beINSports1
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 tvg-id="NowSports1" tvg-name="NowSports1" tvg-logo="" group-title="風雲試看",NowSports1
+http://iptv.4666888.xyz/iptv2A.php?id=11
+#EXTINF:-1 tvg-id="SkysportsF1" tvg-name="SkysportsF1" tvg-logo="" group-title="風雲試看",SkysportsF1
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-id="SkySportsFootball" tvg-name="SkySportsFootball" tvg-logo="" group-title="風雲試看",SkySportsFootball
+http://iptv.4666888.xyz/iptv2A.php?id=5
+#EXTINF:-1 tvg-id="SkyTennis+" tvg-name="SkyTennis+" tvg-logo="" group-title="風雲試看",SkyTennis+
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="" group-title="風雲試看",博斯高球1
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 tvg-id="CCTV1綜合" tvg-name="CCTV1綜合" tvg-logo="" group-title="風雲試看",CCTV1綜合
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 tvg-id="CCTV2財經" tvg-name="CCTV2財經" tvg-logo="" group-title="風雲試看",CCTV2財經
+http://iptv.4666888.xyz/iptv2A.php?id=8
+#EXTINF:-1 tvg-id="CCTV3綜藝" tvg-name="CCTV3綜藝" tvg-logo="" group-title="風雲試看",CCTV3綜藝
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 tvg-id="CCTV14少兒" tvg-name="CCTV14少兒" tvg-logo="" group-title="風雲試看",CCTV14少兒
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="風雲試看",廣東衛視
+http://iptv.4666888.xyz/iptv2A.php?id=18
+#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="風雲試看",湖南衛視
+http://iptv.4666888.xyz/iptv2A.php?id=13
+#EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="風雲試看",浙江衛視
+http://iptv.4666888.xyz/iptv2A.php?id=14
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="風雲試看",湖北卫视
+http://iptv.4666888.xyz/iptv2A.php?id=15
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="風雲試看",贵州卫视
+http://iptv.4666888.xyz/iptv2A.php?id=16
+#EXTINF:-1 group-title="HK香港",NOW星影台
+http://173.208.234.146/live/nowxy.m3u8
+#EXTINF:-1 group-title="HK香港",NOW爆谷台
+http://173.208.234.146/live/nowbg.m3u8
+#EXTINF:-1 group-title="HK香港",星空卫视
+http://xhyx.gz.cn:1698/hls/35/index.m3u8
+#EXTINF:-1 group-title="HK香港",环球电视频道
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="HK香港",TVB 开
+https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+#EXTINF:-1 group-title="HK香港",KTSF26洛杉磯三藩市
+http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+#EXTINF:-1 group-title="HK香港",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 group-title="TW台灣",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",中天新闻
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",民视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",TVBS新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",LIVE三立
+https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",中視
+http://220.135.241.47:8301/0.ts
+#EXTINF:-1 group-title="TW台灣",中視新聞
+http://220.135.241.47:8302/0.ts
+#EXTINF:-1 group-title="TW台灣",中視經典
+http://220.135.241.47:8321/0.ts
+#EXTINF:-1 group-title="TW台灣",中視菁采
+http://220.135.241.47:8322/0.ts
+#EXTINF:-1 group-title="TW台灣",客家电视
+http://220.135.241.47:8303/0.ts
+#EXTINF:-1 group-title="TW台灣",公視
+http://220.135.241.47:8305/0.ts
+#EXTINF:-1 group-title="TW台灣",PTSxs
+http://220.135.241.47:8312/0.ts
+#EXTINF:-1 group-title="TW台灣",公視台語台
+http://220.135.241.47:8306/0.ts
+#EXTINF:-1 group-title="TW台灣",民視
+http://220.135.241.47:8308/0.ts
+#EXTINF:-1 group-title="TW台灣",民視第一台
+http://220.135.241.47:8309/0.ts
+#EXTINF:-1 group-title="TW台灣",民視台灣台
+http://220.135.241.47:8311/0.ts
+#EXTINF:-1 group-title="TW台灣",民視新聞台
+http://220.135.241.47:8310/0.ts
+#EXTINF:-1 group-title="TW台灣",台視
+http://220.135.241.47:8313/0.ts
+#EXTINF:-1 group-title="TW台灣",台視新聞
+http://220.135.241.47:8314/0.ts
+#EXTINF:-1 group-title="TW台灣",台視綜合
+http://220.135.241.47:8316/0.ts
+#EXTINF:-1 group-title="TW台灣",台視財經
+http://220.135.241.47:8315/0.ts
+#EXTINF:-1 group-title="TW台灣",華視
+http://220.135.241.47:8317/0.ts
+#EXTINF:-1 group-title="TW台灣",華視新聞資訊
+http://220.135.241.47:8319/0.ts
+#EXTINF:-1 group-title="TW台灣",華視教育體育文化
+http://220.135.241.47:8318/0.ts
+#EXTINF:-1 group-title="TW台灣",美亚电影
+http://173.208.234.146/live/mymovie.m3u8
+#EXTINF:-1 group-title="TW台灣",天映频道
+http://173.208.234.146/live/typd.m3u8
+#EXTINF:-1 group-title="TW台灣",ROCK Action
+https://ha.msbot.dpdns.org/4gtv_api.php?id=180
+#EXTINF:-1 group-title="TW台灣",ROCK Xstream極限
+https://ha.msbot.dpdns.org/4gtv_api.php?id=485
+#EXTINF:-1 group-title="TW台灣",愛爾達生活旅遊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+#EXTINF:-1 group-title="TW台灣",民視旅遊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+#EXTINF:-1 group-title="TW台灣",MagellanTV (麥哲倫)
+https://ha.msbot.dpdns.org/4gtv_api.php?id=450
+#EXTINF:-1 group-title="TW台灣",MTA6 Asia (1080p)
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",ROCK Action
+https://iptv.852851.xyz/l/tP4t6aIBJrnemm2wGpkJmXAVYKen30e94LiHGCVmVW-xKbbuRNxCwlCc-PfTahwY/index.m3u8
+#EXTINF:-1 group-title="TW台灣",民視旅遊台
+https://iptv.852851.xyz/l/bPLoi1YNY_W0xje9zLQ0CNAH5lJdO11_yBeod2ql8HfZ8H9GKtH8ZqlUJHvtouWV/index.m3u8
+#EXTINF:-1 group-title="TW台灣",民視影劇台
+https://iptv.852851.xyz/l/ENjqDGpPqgBZagd-mS2yy8PDXj_m0QDco49f4P-nQVVpIFsKXSp5d7D4b9pqz6n0/index.m3u8
+#EXTINF:-1 group-title="TW台灣",民視綜藝台
+https://iptv.852851.xyz/l/lRQpoAXQoDV79kratQrq-jgL-s3yq68kV4vh9t2mjVQIu_7SglsWAnb0g_AKFTBu/index.m3u8
+#EXTINF:-1 group-title="TW台灣",采昌影劇台
+https://iptv.852851.xyz/l/ebW8Jn-i5zRLXhcC5AvQnW-U1adRFnarzlU6k0KxvF4Q_LcUJXwR4g7KLztGE0VF/index.m3u8
+#EXTINF:-1 group-title="TW台灣",靖天電影台
+https://iptv.852851.xyz/l/kcmKkj8WlQpdnsKZQ6-3JwYvwYHnG-oDFqkRDmdMwoTDbzu_BuxmFD9Ltz9ZaJx3/index.m3u8
+#EXTINF:-1 group-title="TW台灣",amc電影台
+https://iptv.852851.xyz/l/89H4gGuOQTe-IfIeM9htPuVB9nxWviUi4dceHYkw7QK-tu_gBa9_jPFno7uMG_pK/index.m3u8
+#EXTINF:-1 group-title="TW台灣",纬来日本台
+https://iptv.852851.xyz/l/dBBZEse1dtitvihZgiTMVXkGbwaSVha88D6X-yhdvZRdv_gqaf2NCxkq-oRFOY2f/index.m3u8
+#EXTINF:-1 group-title="TW台灣",博斯魅力台
+https://iptv.852851.xyz/l/qMkzrTkfNdln64_UiveYnk-_U8edKwYtGHDOjbaGyMsmXEwGftrQpEN08u1LzayG/index.m3u8
+#EXTINF:-1 group-title="TW台灣",博斯無限台
+https://iptv.852851.xyz/l/66Z1SLGjCakRQIORJXOT_EF_so3byaOGGXcF0tvQhHe83jmhnnm6U6VShK_OW_ey/index.m3u8
+#EXTINF:-1 group-title="TW台灣",日本1
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master_4.m3u8
+#EXTINF:-1 group-title="TW台灣",日本2
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master_4.m3u8
+#EXTINF:-1 group-title="TW台灣",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="TW台灣",CCTV8k
+https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png
+#EXTINF:-1 group-title="TW台灣",SG| CELESTIAL MOVIES HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:1C:05:41&stream=941618&extension=ts&play_token=mzMtDyseNj
+#EXTINF:-1 group-title="TW台灣",ROCK Action
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
+#EXTINF:-1 group-title="TW台灣",XTREME
+https://4gtv.tv911.ccwu.cc/playlist?channel=ROCK%20Xstream%E6%90%96%E6%BB%BE%E6%A5%B5%E9%99%90%E9%A0%BB%E9%81%93&token=tv123
+#EXTINF:-1 group-title="TW台灣",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="TW台灣",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="TW台灣",纬来体育
+http://www.kaniptv.cn/uadl.php?etoken=THGFaOKGQmUIwD24N4hfR7sirYSa%2FslG2ohrPsblYjtsJ%2FH7FsVFHgeI%2BGSFE%2BgEtMFsAQ80USU0pHod1j8FjN666mhgO5x2klae2Dd65lPdv9KUkOBvUr%2Fg2z0E3IeZ6TiQoW3E3pRjIMnuwaIVczNRLZ0QW5OLvSI1gwXKSURJYdXvuY2J3atdBsopP6CuZLwLquVUJNvXXVpi4u4adx9zIKQaCRG6lYsechRudJFRYNqk1kZA%2B4B8bHnfWbqthc%2Bg8njPVl%2FufwGgBsFFxdaa%2FGxow8L7Z1YZPI8iGhRJ5rULSknNDymAhYL2t%2Brm2hZs5A78QxD%2FfQlxsnnKKA%3D%3D
+#EXTINF:-1 group-title="TW台灣",ViUTV
+http://www.kaniptv.cn/uadl.php?etoken=7js9gZQLaW9QjGHGsl7ggDkOYb1Ke96Xao6djYJlIYRjR9jqWa1SAdDWeLYgmQVVnb6bi2ZPYZp%2FYAzt%2FguJiYBhOgwE9nsqTI9bW%2F3xqxiKKRw6%2FeCLp9JS0g37ZFb0pabv1LPJ7%2Bmrq%2FxRoK2a4iu8rs83HQ%2BJZZhIbUfgNrFgEDWYtLE3wEwH%2FBNSJ1prmW96ZLhpd6pSfdxkmvckngPBJWTiwkX1j2IoTfYkKZFhQGtgwwLPkLH6dy%2BC8DrN29YX%2BeIaDmc%2BmXR1hysWpNonrfSISgA0T%2F940GXQGi3V8VEWA9v20Bv8PydmOD5LEaRQsmxvysE%2FSjXsdn7mCQ%3D%3D
+#EXTINF:-1 group-title="TW台灣",東森新聞(211)
+http://211.72.174.95:8138/0.ts
+#EXTINF:-1 group-title="TW台灣",華視新聞資訊
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="TW台灣",中視新聞
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="TW台灣",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="TW台灣",民視新聞(211)
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1 group-title="TW台灣",華視教育體育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 group-title="TW台灣",華視
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="TW台灣",華視(211)
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 group-title="TW台灣",中視
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="TW台灣",中視經典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="TW台灣",中視菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 group-title="TW台灣",中視(211)
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 group-title="TW台灣",民視
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="TW台灣",民視台灣台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="TW台灣",民視第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="TW台灣",民視(211)
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="TW台灣",公視
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="TW台灣",公視台語台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="TW台灣",小公視
+http://74.91.26.218:82/live/ptsse.m3u8
+#EXTINF:-1 group-title="TW台灣",公視(211)
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="TW台灣",中天新闻台
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-1 group-title="TW台灣",TVBS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW台灣",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="TW台灣",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 group-title="TW台灣",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 group-title="TW台灣",三立戏剧频道
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW台灣",中天娱乐频道
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW台灣",纬来精彩频道
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW台灣",动物星球频道
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW台灣",中旺電視
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 group-title="TW台灣",中旺電視
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",中旺電視
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/chunklist0.m3u8
+#EXTINF:-1 group-title="TW台灣",美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",華視新聞
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 group-title="TW台灣",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",博斯網球[BoSi Tennis]
+http://67.220.71.199:2347/livehttpplay?channel_id=42026
+#EXTINF:-1 group-title="TW台灣",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",华文八套
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",東森中國台
+http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-1 group-title="TW台灣",東森中國台
+http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",東森中國台
+http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",東森超視美洲台
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 group-title="TW台灣",東森超視美洲台
+http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",東森超視美洲台
+http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",東森美洲衛視
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="TW台灣",東森美洲衛視
+http://38.64.72.148/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",東森美洲衛視
+http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",東森美洲HD
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 group-title="TW台灣",東森美洲HD
+http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
+#EXTINF:-1 group-title="TW台灣",東森美洲HD
+http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 group-title="TW台灣",中視新聞HD
+http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 group-title="TW台灣",TVBS 新闻
+https://stream1.freetv.fun/tvbs-news-1.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人
+https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人-美西频道
+https://list.iptvcat.com/my_list/s/f95a442eb8c2bebb1499d25c2f130210.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人亚太, 新唐人亚太臺
+https://list.iptvcat.com/my_list/s/25abbfbddc550d22ec6e45e339dae30e.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人加东臺
+https://list.iptvcat.com/my_list/s/671ca379087db537617d43a2b5938b94.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人加西臺
+https://list.iptvcat.com/my_list/s/a280348a85b77b4678c3e26862ba08cc.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人旧金山臺
+https://list.iptvcat.com/my_list/s/15aac68504c55d3a8f6bdd9956fd3e1f.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人美东臺
+https://list.iptvcat.com/my_list/s/3d1c5e6d3af2049a8542980259910fed.m3u8
+#EXTINF:-1 group-title="TW台灣",新唐人美西臺
+https://list.iptvcat.com/my_list/s/dfeb375be4ae8f57117a95f6e248a13d.m3u8
+#EXTINF:-1 group-title="宗教电视",大爱
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="宗教电视",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="宗教电视",唯心
+https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视",GOOD2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="宗教电视",GOOD2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="宗教电视",GOODTV
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="宗教电视",GOODTV
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 group-title="宗教电视",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视",唯心2
+http://61.216.67.119:1935/wxtv/wxtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视",华藏卫视
+https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视",悟道法师
+https://tw2.amtb.de/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视",生命电视
+https://5ddce30eb4b55.streamlock.net/lifetv/lifetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视" tvg-name="人间卫视" tvg-logo="https://tv.jingeng.cn/bltv.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="宗教电视" tvg-name="唯心電視" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唯心網路電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视" tvg-name="goodtv" tvg-logo="https://tv.jingeng.cn/stemiTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",stemiTV
+https://vod.stemitv.org/vod/gen/01/720p/720p.m3u8
