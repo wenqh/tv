@@ -377,7 +377,9 @@ https://list.iptvcat.com/my_list/s/dfeb375be4ae8f57117a95f6e248a13d.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="宗教电视",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="宗教电视",唯心
+#EXTINF:-1 group-title="宗教电视" tvg-name="唯心電視" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唯心網路電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="宗教电视" tvg-name="唯心電視",唯心網路電視
 https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 #EXTINF:-1 group-title="宗教电视",GOOD2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
@@ -401,7 +403,5 @@ https://tw2.amtb.de/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
 https://5ddce30eb4b55.streamlock.net/lifetv/lifetv.stream/playlist.m3u8
 #EXTINF:-1 group-title="宗教电视" tvg-name="人间卫视" tvg-logo="https://tv.jingeng.cn/bltv.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="宗教电视" tvg-name="唯心電視" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唯心網路電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 group-title="宗教电视" tvg-name="goodtv" tvg-logo="https://tv.jingeng.cn/stemiTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",stemiTV
 https://vod.stemitv.org/vod/gen/01/720p/720p.m3u8
